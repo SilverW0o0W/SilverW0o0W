@@ -1,6 +1,4 @@
-
-[![Silver's github stats](https://github-readme-stats.vercel.app/api?username=SilverW0o0W&theme=cobalt&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Silver's GitHub stats](https://github-readme-stats.vercel.app/api?username=SilverW0o0W)](https://github.com/anuraghazra/github-readme-stats)
 ### Hi there 👋
 
 <!--
